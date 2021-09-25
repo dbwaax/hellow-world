@@ -1,3 +1,3 @@
 # hellow-world
-have a try!
+have a try!\n
 111111
